@@ -2,7 +2,7 @@ This is a test release。
 
 This program is in the testing phase and is free of charge. Unforeseen errors or issues may occur. Please carefully verify the generated data. Your understanding is appreciated.
 
-本程序属于测试阶段，免费，可能会出现不可预见错误或问题，请耐心核对生产出的数据，敬请谅解。
+本程序属于测试阶段，免费，可能会出现不可预见错误或问题，请耐心核对生生成的数据，敬请谅解。
 
 # 图像信息提取工具
 
